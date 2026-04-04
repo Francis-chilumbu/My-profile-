@@ -56,14 +56,14 @@ h1 {
 /* Main content */
 .main-content {
     display: grid;
-    grid-template-columns: 2fr 1fr;
+    grid-template-columns: 1.2fr 1fr;
     gap: 30px;
 }
 
 /* About section */
 .about {
     background: rgba(255, 255, 255, 0.95);
-    padding: 30px;
+    padding: 20px;
     border-radius: 15px;
     box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
 }
