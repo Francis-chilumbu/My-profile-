@@ -30,15 +30,6 @@ README.md         # This file
    ```
    Then visit `http://localhost:8000/MyProfile.html`
 
-## Customization
-
-### Personal Information
-Edit the content in `MyProfile.html`:
-- Change the name, subtitle, and about text
-- Update education details
-- Modify contact information
-- Replace the placeholder profile image URL
-
 ### Skills
 In `MyProfile.html`, modify the skill items:
 ```html
